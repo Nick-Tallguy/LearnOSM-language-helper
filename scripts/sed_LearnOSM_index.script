@@ -1,0 +1,48 @@
+# invoke with "sed -f sed_LearnOSM_index.script ./from_transifex/0100-01-01-index.md ./from_transifex/for_use_learnosm-1_essential_setuptxt_ca.txt>./output/0100-01-01-index_ca.md"
+# invoke with "sed -f sed.script 0100-01-01-index.md for_use_learnosm-1_essential_setuptxt_fr.txt >test_sed.md"
+
+# need to change the language codes
+s:/en/:/ca/:g
+s/: en/: ca/
+s/"---"/&/
+s/"layout: front"/&/ 
+40s/^/fronttitle: "/;40s/.$/&"/
+42s/^/frontintro: "/;42s/.$/&"/
+44s/^/ourguides: "/;44s/.$/&"/
+46s/^/searchtext: "/;46s/.$/&"/
+48s/^/begspan: "/;48s/.$/&"/
+50s/^/beg: "/;50s/.$/&"/
+52s/^/interspan: "/;52s/.$/&"/
+54s/^/inter: "/;54s/.$/&"/
+56s/^/advspan: "/;56s/.$/&"/
+58s/^/adv: "/;58s/.$/&"/
+60s/^/faq: "/;60s/.$/&"/
+62s/^/faqA: "/;62s/.$/&"/
+64s/^/faqB: "/;64s/.$/&"/
+66s/^/faqC: "/;66s/.$/&"/
+68s/^/faqD: "/;68s/.$/&"/
+# moves interspanlink
+/interspanlink:/{
+h
+d
+}
+/interspan:/{
+G
+}
+69,96d
+23,39d
+5,11d
+/^$/d
+/advspan: \"More guides\"/d
+/inter: "Remote mapping information"/d
+/adv: "Guides in Document format"/d
+/faqA: "What is OpenStreetMap?"/d
+/faq: "Common Questions"/d
+/faqB: "Who created LearnOSM?"/d
+/faqC: "How can I get started mapping?"/d
+/faqD: "Where can I find additional help?"/d
+/nosearch:/d
+/fronttitle: "OpenStreetMap is a free street level map of the world, created by an ever growing community of mappers."/d
+/faqD:/a\
+nosearch: true\
+---
