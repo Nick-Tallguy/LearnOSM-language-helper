@@ -35,4 +35,18 @@ Purpose of these scripts is to automate and simplify the production of the 0100-
 and then run this on the terminal.  
 7. If all goes well you should find you now have a file in your /scripts/output folder **0100-01-01-index_ca.md** which you can move to your _posts/ca/ folder.
 
-scripts to help produce files needed for home page in translated language
+Points to note
+--------------
+
+* The output file will be named with a language extension, so that 0100-01-01-index.md will appear as 0100-01-01-index_ca.md (or whatever language extension is appropriate for the language you are working in). This is deliberate and will help you to put the file in the correct place, especially if working on more than one language during the same session.  
+* You may notice that some of the lines of text are in a different order in the output file, to the order they appear in for the original file. This does not matter - the important point is that they appear somewhere between the two lines of --- characters (The header material).  
+
+Feedback or comments
+--------------------
+
+Please feel free to raise an issue if there is any feedback, comments or anything else you wish to say. I'd particularly like to hear from users of Operating System's other than Linux as to how this works, or if it needs adapting.
+
+What works at present
+---------------------
+
+This is still work in progress - only the script to produce 0100-01-01-index.md actually works at the moment (but this is the main file that can take over an hour of cutting and pasting to produce!).
