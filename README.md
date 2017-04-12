@@ -31,14 +31,14 @@ Purpose of these scripts is to automate and simplify the production of the 0100-
 4. To produce a 0100-01-index.md file, edit the language codes at the start of the **/scripts/sed_LearnOSM_index.script** - there are notes there to help you.  
 5. Open a terminal in the **scripts** folder  
 6. Amend this line to fit your cirumstances  
-    sed -f sed_LearnOSM_index.script ./from_transifex/0100-01-01-index.md ./from_transifex/for_use_learnosm-1_essential_setuptxt_ca.txt>./output/0100-01-01-index_ca.md  
+    sed -f sed_LearnOSM_index.script ./from_transifex/0100-01-01-index.md ./from_transifex/for_use_learnosm-1_essential_setuptxt_fr.txt>./output/0100-01-01-index_fr.md  
 and then run this on the terminal.  
-7. If all goes well you should find you now have a file in your /scripts/output folder **0100-01-01-index_ca.md** which you can move to your _posts/ca/ folder.
+7. If all goes well you should find you now have a file in your /scripts/output folder **0100-01-01-index_fr.md** which you can move to your _posts/fr/ folder.
 
 Points to note
 --------------
 
-* The output file will be named with a language extension, so that 0100-01-01-index.md will appear as 0100-01-01-index_ca.md (or whatever language extension is appropriate for the language you are working in). This is deliberate and will help you to put the file in the correct place, especially if working on more than one language during the same session.  
+* The output file will be named with a language extension, so that 0100-01-01-index.md will appear as 0100-01-01-index_fr.md (or whatever language extension is appropriate for the language you are working in). This is deliberate and will help you to put the file in the correct place, especially if working on more than one language during the same session.  
 * You may notice that some of the lines of text are in a different order in the output file, to the order they appear in for the original file. This does not matter - the important point is that they appear somewhere between the two lines of --- characters (The header material).  
 
 Feedback or comments
