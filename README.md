@@ -41,7 +41,7 @@ Instructions
 4. Edit the language code at the start of the **LearnOSM-language-helper/LearnOSM-helper-bash.sh**  file- there are notes there to help you - required each time you change language with a different 'essential_setup.txt' file.  
 5. Amend the paths so they are the same as on your computer (you only have to do this once).  
 6. Open a terminal in the **LearnOSM-language-helper** folder  
-7. and type **./LearnOSM-helper-bash.sh** (The "./" at the start is important)
+7. and type **./LearnOSM-helper-bash.sh** - then hit **Enter** or **Return** on your keyboard. (The "./" at the start is important)
 8. If all goes well you should find you now have three files in your **LearnOSM-language-helper/scripts/output/** folder.
 
 Points to note
