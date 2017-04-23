@@ -1,0 +1,14 @@
+s/en:/zzxz:/
+26s/^/    language: "/;26s/.$/&"/
+12s/^/    tagline: "/;12s/.$/&"/
+14s/^/    contribute: "/;14s/.$/&"/
+16s/^/    trainingspan: "/;16s/.$/&"/
+18s/^/    training: "/;18s/.$/&"/
+20s/^/    feedbackspan: "/;20s/.$/&"/
+22s/^/    feedback: "/;22s/.$/&"/
+24s/^/    getstarted: "/;24s/.$/&"/
+84s/^/    returntotop: "/;84s/.$/&"/
+82s/^/    quickaccess: "/;82s/.$/&"/
+27,81d
+2,11d
+/^$/d

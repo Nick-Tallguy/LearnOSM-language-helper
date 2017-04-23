@@ -1,9 +1,5 @@
-# invoke with "sed -f sed_LearnOSM_index.script ./from_transifex/0100-01-01-index.md ./from_transifex/for_use_learnosm-1_essential_setuptxt_ca.txt>./output/0100-01-01-index_ca.md"
-# invoke with "sed -f sed.script 0100-01-01-index.md for_use_learnosm-1_essential_setuptxt_fr.txt >test_sed.md"
-
-# need to change the language codes
-s:/en/:/ca/:g
-s/: en/: ca/
+s:/en/:/zzxz/:g
+s/: en/: zzxz/
 s/"---"/&/
 s/"layout: front"/&/ 
 40s/^/fronttitle: "/;40s/.$/&"/

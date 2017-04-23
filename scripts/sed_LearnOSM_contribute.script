@@ -1,8 +1,5 @@
-# invoke with "sed -f ./sed_LearnOSM_contribute.script ./from_transifex/0100-01-01-contribute.md ./from_transifex/for_use_learnosm-1_essential_setuptxt_ca.txt>./output/0100-01-01-contribute_ca.md"
-
-# need to change the language codes
-s:/en/:/ca/:g
-s/: en/: ca/
+s:/en/:/zzxz/:g
+s/: en/: zzxz/
 s/"---"/&/
 s/"layout: contribute"/&/ 
 17s/^/contributetitle: "/;17s/.$/&"/
@@ -18,10 +15,3 @@ s/"layout: contribute"/&/
 /^$/d
 79 i\
 ---
-#14{H;d}; ${p;x;s/^\n//}
-#28,88d
-#6,13d
-#/^$/d
-#/startD:/a\
-#nosearch: true\
-#---
