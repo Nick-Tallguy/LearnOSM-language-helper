@@ -12,28 +12,35 @@ and a new language folder and contents is needed in the **_posts** folder, for i
   _posts/fr/0100-01-01-index.md  
   _posts/fr/0100-01-01-status.md  
 
+Produced using these files
+--------------------------
+
+  0100-01-01-contribute.md  
+  0100-01-01-index.md  
+  config-yml-snippet.txt - *contains a snippet for copying and pasting into your _config.yml file*
+  
 Although these files will add the language, something for a visitor to read is needed as well, probably from the beginner section;  
   _posts/fr/beginner/0200-12-31-beginner.md  
   _posts/fr/beginner/0200-12-29-introduction.md  
 
 Essential_setup.txt
 -------------------
+
 Is a file produced by using phrases from the 0100-01-01 index, status and contribute files, plus phrases from the other files involved in the translation process. The original file has been uploaded to Transifex.com, where it is available for the translators to work on. When the file is completely translated it can be downloaded, and it will have the filename **for_use_learnosm-1_essential_setuptxt_fr.txt**. Until now, a site maintainer has then produced the correct file such as **0100-01-01-index.md** by copying and pasting the relevant lines of text from the translated file into a new file. With some of the non latin script languages this can be a difficult and time consuming process, during which it is very easy to make mistakes.  
 
-Purpose of these scripts is to automate and simplify the production of the 0100-01-01 files
---------------------------------------------------------------------------------------------
+Instructions
+------------
 
->These instructions are for a Linux computer user, but should work with other operating systems (feedback appreciated in case amendments are needed). **sed** is the app used, and is aleady installed on most Linux distributions. It is freely available for other OS's - for instance <http://gnuwin32.sourceforge.net/packages/sed.htm>  
+>These instructions are for a Linux computer user, but should work with other operating systems (feedback appreciated in case amendments are needed). **sed** and **bash** are the apps used, and they are aleady installed on most Linux distributions. Sed is freely available for other OS's - for instance <http://gnuwin32.sourceforge.net/packages/sed.htm> Bash is now available for windows users. 
 
 1. Clone or download this repository to your computer. If you downloaded, then unzip.  
-2. This will create a folder **scripts** and its contents.  
-3. Download a completed **essential_setup.txt** file from Transifex.com and place it in the **/scripts/from_transifex** folder - do not rename the file!  
-4. To produce a 0100-01-index.md file, edit the language codes at the start of the **/scripts/sed_LearnOSM_index.script** - there are notes there to help you.  
-5. Open a terminal in the **scripts** folder  
-6. Amend this line to fit your cirumstances  
-    sed -f sed_LearnOSM_index.script ./from_transifex/0100-01-01-index.md ./from_transifex/for_use_learnosm-1_essential_setuptxt_fr.txt>./output/0100-01-01-index_fr.md  
-and then run this on the terminal.  
-7. If all goes well you should find you now have a file in your /scripts/output folder **0100-01-01-index_fr.md** which you can move to your _posts/fr/ folder.
+2. This will create a folder **LearnOSM-language-helper** and its contents.  
+3. Download a completed **essential_setup.txt** file from Transifex.com and place it in the **LearnOSM-language-helper/scripts/from_transifex** folder - do not rename the file!  
+4. Edit the language code at the start of the **LearnOSM-language-helper/LearnOSM-helper-bash.sh**  file- there are notes there to help you - required each time you change language with a different 'essential_setup.txt' file.  
+5. Amend the paths so they are the same as on your computer (you only have to do this once).  
+6. Open a terminal in the **LearnOSM-language-helper** folder  
+7. and type **./LearnOSM-helper-bash.sh** (The "./" at the start is important)
+8. If all goes well you should find you now have three files in your **LearnOSM-language-helper/scripts/output/** folder.
 
 Points to note
 --------------
@@ -49,4 +56,4 @@ Please feel free to raise an issue if there is any feedback, comments or anythin
 What works at present
 ---------------------
 
-This is still work in progress - only the script to produce 0100-01-01-index.md actually works at the moment (but this is the main file that can take over an hour of cutting and pasting to produce!).
+This is still work in progress - any problems or suggestions welcome.  

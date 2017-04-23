@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#NEEDS TO BE SET - language for file production
+#NEEDS TO BE SET for each new language - language for file production - for some languages it will be more than 2 characters, such as "zh-tw".
 lang=fr
 #
 #location of sed scripts
