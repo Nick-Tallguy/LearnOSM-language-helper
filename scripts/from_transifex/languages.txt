@@ -18,5 +18,6 @@
 [Shqip](/sq/beginner/introduction/),  
 [Українська](/uk/beginner/introduction/), 
 [简体中文](/zh/beginner/introduction/).-->  
+[繁體中文](/zh-tw/beginner/introduction/).
 
 To help produce translations for this site, go to [https://www.transifex.com](https://www.transifex.com) and search for **HOT-OSM**.
