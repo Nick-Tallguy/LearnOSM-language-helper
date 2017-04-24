@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #NEEDS TO BE SET for each new language - language for file production - for some languages it will be more than 2 characters, such as "zh-tw".
-lang=fr
+lang=sq
 #
 #location of sed scripts
 script_path='/home/nick/Github/LearnOSM-language-helper/scripts'
@@ -19,3 +19,5 @@ sed -f $script_path/sed_LearnOSM_contribute.script $trans_path/0100-01-01-contri
 sed -i s/zzxz/${lang}/ $output_path/0100-01-01-contribute_$lang.md
 sed -f $script_path/sed_LearnOSM_index.script $trans_path/0100-01-01-index.md $trans_path/for_use_learnosm-1_essential_setuptxt_$lang.txt>$output_path/0100-01-01-index_$lang.md
 sed -i s/zzxz/${lang}/ $output_path/0100-01-01-index_$lang.md
+sed -f $script_path/sed_LearnOSM_status.script $trans_path/0100-01-01-status.md $trans_path/for_use_learnosm-1_essential_setuptxt_$lang.txt>$output_path/0100-01-01-status_$lang.md
+sed -i s/zzxz/${lang}/ $output_path/0100-01-01-status_$lang.md
