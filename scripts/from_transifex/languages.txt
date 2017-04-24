@@ -3,7 +3,6 @@
 [Catalan](/ca/beginner/introduction/)
 [Czech](/cs/beginner/introduction/),   
 [Deutsch](/de/beginner/introduction/),  
-[English](/en/beginner/introduction/),  
 [Español](/es/beginner/introduction/),  
 [فارسی](/fa/beginner/introduction/),  
 [Français](/fr/beginner/introduction/),  
