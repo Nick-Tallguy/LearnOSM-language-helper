@@ -1,0 +1,7 @@
+s:/en/:/zzxz/:g
+s/: en/: zzxz/
+s/JOSM adding tms, wms or wmts imagery/Humanitarian Mapping/g
+s/josm/coordination/g
+s/coordination-adding-imagery/humanitarian/g
+72,90d
+13,70d

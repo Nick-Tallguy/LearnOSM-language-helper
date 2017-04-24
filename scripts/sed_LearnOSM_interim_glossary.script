@@ -1,0 +1,7 @@
+s:/en/:/zzxz/:g
+s/: en/: zzxz/
+s/JOSM adding tms, wms or wmts imagery/Glossary/g
+s/josm/beginner/g
+s/beginner-adding-imagery/glossary/g
+72,90d
+13,70d
