@@ -15,10 +15,12 @@ and a new language folder and contents is needed in the **_posts** folder, for i
 
 How this (these) scripts help
 --------------------------
-Using this script should make it much easier to add a new language, or make a change if a minor translation amendment is carried out on an essential_setup.txt file (With some languages using other than a Latin script, it can be very difficult to see the changes). Copying and pasting the content manually can take over an hour. Using this script should reduce the time to less than 5 minutes (4 minutes 30 are for copying the text from the snippet into the _config.yml file!). The following 3 files are produced.  
-  0100-01-01-contribute.md  
-  0100-01-01-index.md  
+Using this script should make it much easier to add a new language, or make a change if a minor translation amendment is carried out on an essential_setup.txt file (With some languages using other than a Latin script, it can be very difficult to see the changes). Copying and pasting the content manually can take over an hour. Using this script should reduce the time to less than 5 minutes (4 minutes 30 are for copying the text from the snippet into the _config.yml file!). The following files are produced.  
+  0100-01-01-contribute_fr.md  
+  0100-01-01-index_fr.md  
+  0100-01-01-status_fr.md
   config-yml-snippet.txt - *contains a snippet for copying and pasting into your _config.yml file*
+As a bonus, several 'interim' guides are produced *they need updating to show which languages the module is actually available in, before they can be used.*
 
 What else is needed
 -------------------  
@@ -43,6 +45,10 @@ Instructions
 6. Open a terminal in the **LearnOSM-language-helper** folder  
 7. and type **./LearnOSM-helper-bash.sh** - then hit **Enter** or **Return** on your keyboard. (The "./" at the start is important)
 8. If all goes well you should find you now have three files in your **LearnOSM-language-helper/scripts/output/** folder.
+
+Adding a new language
+---------------------
+When you add a new language, also add a new line to /scripts/from_transifex/languages.txt - follow the pattern of the existing languages. This will add them into the options when producing further 'interim' guides. 
 
 Points to note
 --------------
