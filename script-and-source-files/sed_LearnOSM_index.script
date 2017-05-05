@@ -17,15 +17,7 @@ s/"layout: front"/&/
 64s/^/faqB: "/;64s/.$/&"/
 66s/^/faqC: "/;66s/.$/&"/
 68s/^/faqD: "/;68s/.$/&"/
-# moves interspanlink
-/interspanlink:/{
-h
-d
-}
-/interspan:/{
-G
-}
-69,96d
+69,97d
 23,39d
 5,11d
 /^$/d

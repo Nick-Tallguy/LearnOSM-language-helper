@@ -12,7 +12,7 @@ Let us know and help us improve the guides!
 
 Get started
 
-English
+Replace all of this text with the one word to be used in the 'language switcher', such as English, Español, or Русский
 
 OpenStreetMap is a free street level map of the world, created by an ever growing community of mappers.
 
