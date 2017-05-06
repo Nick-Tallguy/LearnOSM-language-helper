@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #NEEDS TO BE SET for each new language - language for file production - for some languages it will be more than 2 characters, such as "zh-tw".
-lang=ca
+lang=fr
 #
 #location of sed scripts
 script_path='/home/nick/Github/LearnOSM-language-helper/script-and-source-files'
@@ -38,3 +38,9 @@ sed -i s/introduction/moving-forward/ $output_path/0200-12-03-moving-forward_int
 sed -f $script_path/sed_LearnOSM_interim_humanitarian.script $script_path/interim_en.md $trans_path/essential_setup_$lang.txt $script_path/languages.txt>$output_path/0500-10-27-humanitarian_interim_$lang.md
 sed -i s/zzxz/${lang}/ $output_path/0500-10-27-humanitarian_interim_$lang.md
 sed -i s_/beginner/introduction_/coordination/humanitarian_ $output_path/0500-10-27-humanitarian_interim_$lang.md
+sed -f $script_path/sed_LearnOSM_interim_coordination.script $script_path/interim_en.md $trans_path/essential_setup_$lang.txt $script_path/languages.txt>$output_path/0500-12-31-coordination_interim_$lang.md
+sed -i s/zzxz/${lang}/ $output_path/0500-12-31-coordination_interim_$lang.md
+sed -i s_/beginner/introduction_/coordination_ $output_path/0500-12-31-coordination_interim_$lang.md
+sed -f $script_path/sed_LearnOSM_interim_remote-tracing.script $script_path/interim_en.md $trans_path/essential_setup_$lang.txt $script_path/languages.txt>$output_path/0500-10-15-remote-tracing_interim_$lang.md
+sed -i s/zzxz/${lang}/ $output_path/0500-10-15-remote-tracing_interim_$lang.md
+sed -i s_/beginner/introduction_/coordination_ $output_path/0500-10-15-remote-tracing_interim_$lang.md

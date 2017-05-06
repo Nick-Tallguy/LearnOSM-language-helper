@@ -1,0 +1,8 @@
+s:/en/:/zzxz/:g
+s/: en/: zzxz/
+s/JOSM adding tms, wms or wmts imagery/Coordination/g
+s/josm/coordination/g
+s_/coordination-adding-imagery/_/_g
+72,90d
+13,70d
+s/published: true/published: true\ncover: yes/
