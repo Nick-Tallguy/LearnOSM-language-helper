@@ -2,10 +2,9 @@
 
 LearnOSM is available in many languages, which is great, but can make it difficult to manage if the person doing the updating doesn't speak the language! <https://www.transifex.com/> very kindly offer their services free of charge to HOTOSM and LearnOSM, which has made it much easier to manage the translation process.  
 
-For a new language to appear on LearnOSM, several files need to be updated;  
+For a new language to appear on LearnOSM, two files need to be updated;  
   all-translation.json   
   _config.yml  
-  _layouts/default.html  
 
 and a new language folder and contents is needed in the **_posts** folder, for instance;  
   _posts/fr/0100-01-01-contribute.md  
@@ -45,7 +44,7 @@ Instructions
 5. Amend the paths so they are the same as on your computer (you only have to do this once).  
 6. Open a terminal in the **LearnOSM-language-helper** folder  
 7. and type **./LearnOSM-helper-bash.sh** - then hit **Enter** or **Return** on your keyboard. (The "./" at the start is important)  
-8. If all goes well you should find you now have three files in your **LearnOSM-language-helper/scripts/output/** folder.  
+8. If all goes well you should find you now have several files in your **LearnOSM-language-helper/scripts/output/** folder.  
 
 Adding a new language
 ---------------------
