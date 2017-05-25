@@ -3,5 +3,5 @@ s/: en/: zzxz/
 s/JOSM adding tms, wms or wmts imagery/OpenStreetMap.org/g
 s/josm/beginner/g
 s/beginner-adding-imagery/start-osm/g
-72,90d
+72,89d
 13,70d

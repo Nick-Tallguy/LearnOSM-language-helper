@@ -3,7 +3,7 @@ s/: en/: zzxz/
 s/JOSM adding tms, wms or wmts imagery/Tracing roads, buildings, water and landuse /g
 s/josm/coordination/g
 s/coordination-adding-imagery/remote-tracing/g
-72,90d
+72,89d
 13,70d
 # s/M\*\*\./M\*\*\.\n### Highways - How to map\n\#\#\# landuse=residential - how to map\n\#\#\# Buildings - How to Map/
 s/\=\=\= /\=\=\= \n\n### Highways - How to map\n\#\#\# landuse=residential - how to map\n\#\#\# Buildings - How to Map/
