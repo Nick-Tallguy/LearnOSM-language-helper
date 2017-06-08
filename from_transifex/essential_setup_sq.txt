@@ -1,0 +1,73 @@
+Mësoni OpenStreetMap hap pas hapi
+
+Na ndihmoni të përmirësojmë guidën tonë
+
+Jeni një organizator workshopesh (punëtorish) ?
+
+Kontrolloni  materialin trajnues për këtë guidë (në Shqip)
+
+Ishte ky kapitull i dobishëm?
+
+Na bëni me dije dhe na ndihmoni të përmirësojmë guidat!
+
+Fillo
+
+Shqip
+
+OpenStreetMap është një hartë e lirë e botës, e krijuar nga një komunitet në rritje i hatëzuesve.
+
+Çdokush mund të editojë në OpenStreetMap. Këtu ju mund të mësoni se si LearnOSM mundëson guida hap pas hapi, lehtësisht të kuptueshme për ju që të filloni të kontribuoni dhe të përdorni OpenStreetMap dhe të përdorni të dhënat e OpenStreetMap. Nëse ju jeni i interesuar të zhvilloni një punëtori për OpenStreetMap, shikoni burimet trajnuese të LearnOSM.
+
+Guidat tona
+
+Për çfarë po kërkoni?
+
+I ri në OpenStreetMap?
+
+guida e fillestarëve
+
+Humanitarian Mapping
+
+Informacion mbi modelimin e hartave në distancë.
+
+Më shumë guida
+
+Guidat në formatin dokument
+
+Pyetje të zakonshme
+
+Çfarë është OpenStreetMap?
+
+Kush e krijoi LearnOSM?
+
+Si mund të filloj modelimin/krijimin e hartave?
+
+Ku mund të gjej më tepër ndihmë?
+
+Kjo guidë mund të shkarkohet si 
+
+Kjo guidë është e disponueshme në  
+
+ose  
+
+Ju lutem referojuni asaj në  
+
+Kjo guidë nuk është e disponueshme tani. Ajo po përkthehet. Ju lutem referojuni asaj në  
+
+Na dërgoni rekomandime
+
+Krijoni një përkthim
+
+Përmirësoni gjuhën
+
+Raportoni çështje dhe kontribuoni
+
+Kjo guidë është krijuar dhe mirëmbajtur nga komuniteti i [OpenStreetMap](http://www.openstreetmap.org/) dhe [Humanitarian OpenStreetMap](http://hotosm.org/). Ju mund të na ndihmoni ta përmirësojmë këtë guidë duke na dërguar rekomandime apo duke kontribuar direkt në të nëpërmjet [Github](http://github.com/hotosm/learnosm).
+
+Gati për të filluar?
+
+Një version më i ri i kësaj guide është i disponueshëm në
+
+Qasje e shpejtë
+
+Kthehuni në krye të faqes

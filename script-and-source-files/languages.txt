@@ -1,4 +1,4 @@
-[English](/en/beginner/introduction/)    <!--
+[English](/en/beginner/introduction/)    <!--  -->  
 [Bahasa Indonesia](/bi/beginner/introduction/),  
 [Catalan](/ca/beginner/introduction/)
 [Czech](/cs/beginner/introduction/),   
@@ -9,16 +9,16 @@
 [Hrvatski](/hr/beginner/introduction/),  
 [Italiano](/it/beginner/introduction/),  
 [日本語](/ja/beginner/introduction/),  
-[Myanmar](/my/beginner/introduction/),-->  
+[Myanmar](/my/beginner/introduction/),
 [Norsk](/nb/beginner/introduction/), 
-[Nederlands](/nl/beginner/introduction/).  <!--
+[Nederlands](/nl_NL/beginner/introduction/).  
 [Português](/pt/beginner/introduction/),  
 [Русский](/ru/beginner/introduction/),  
 [Kiswahili](/sw/beginner/introduction/), 
 [Slovenian](/sl/beginner/introduction/),  
 [Shqip](/sq/beginner/introduction/),  
 [Українська](/uk/beginner/introduction/), 
-[简体中文](/zh/beginner/introduction/).-->  
-[繁體中文](/zh-tw/beginner/introduction/).
+[简体中文](/zh_CN/beginner/introduction/).  
+[繁體中文](/zh_TW/beginner/introduction/).
 
 To help produce translations for this site, go to [https://www.transifex.com](https://www.transifex.com) and search for **HOT-OSM**.

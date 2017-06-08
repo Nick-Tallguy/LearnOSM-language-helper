@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #NEEDS TO BE SET for each new language - language for file production - for some languages it will be more than 2 characters, such as "zh-tw".
-lang=it
+lang=sq
 #
 #location of sed scripts
 script_path='/home/nick/Github/LearnOSM-language-helper/script-and-source-files'
