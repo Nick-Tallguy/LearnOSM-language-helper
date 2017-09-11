@@ -7,6 +7,7 @@
 [فارسی](/fa/beginner/introduction/),  
 [Français](/fr/beginner/introduction/),  
 [Hrvatski](/hr/beginner/introduction/),  
+[Magyar](/hu/beginner/introduction/),  
 [Italiano](/it/beginner/introduction/),  
 [日本語](/ja/beginner/introduction/),  
 [Myanmar](/my/beginner/introduction/),
