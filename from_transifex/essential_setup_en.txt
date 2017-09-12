@@ -60,6 +60,10 @@ Create a translation
 
 Improve Language
 
+Help with translations
+
+Improve Images - in your language!
+
 Report issues and contribute
 
 This guide is created and maintained by the [OpenStreetMap](http://www.openstreetmap.org/) and [Humanitarian OpenStreetMap](http://hotosm.org/) community. You can help us improve this guide by simply sending your feedback or by contributing directly to it via [Github](http://github.com/hotosm/learnosm).
@@ -71,4 +75,3 @@ A more recent version of this guide is available in
 Quick access
 
 Return to top of page
-

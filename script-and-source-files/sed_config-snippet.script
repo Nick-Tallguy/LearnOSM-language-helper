@@ -7,8 +7,8 @@ s/en:/zzxz:/
 20s/^/    feedbackspan: "/;20s/.$/&"/
 22s/^/    feedback: "/;22s/.$/&"/
 24s/^/    getstarted: "/;24s/.$/&"/
-84s/^/    returntotop: "/;84s/.$/&"/
-82s/^/    quickaccess: "/;82s/.$/&"/
-27,81d
+88s/^/    returntotop: "/;88s/.$/&"/
+86s/^/    quickaccess: "/;86s/.$/&"/
+27,85d
 2,11d
 /^$/d

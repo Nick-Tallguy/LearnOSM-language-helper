@@ -3,15 +3,17 @@ s/: en/: zzxz/
 s/"---"/&/
 s/"layout: contribute"/&/ 
 17s/^/contributetitle: "/;17s/.$/&"/
-19s/^/startwith: "/;19s/.$/&"/
-21s/^/startA: "/;21s/.$/&"/
-23s/^/startB: "/;23s/.$/&"/
-25s/^/startC: "/;25s/.$/&"/
-27s/^/startD: "/;27s/.$/&"/
-80,88d
+85s/^/startwith: "/;85s/.$/&"/
+71s/^/startA: "/;71s/.$/&"/
+77s/^/startB: "/;77s/.$/&"/
+79s/^/startC: "/;79s/.$/&"/
+81s/^/startD: "/;81s/.$/&"/
+86,91d
 6,11d
-28,78d
+18,70d
 13,16d
+72,76d
 /^$/d
-79 i\
+#93 i\
+/startD:/ a\
 ---
