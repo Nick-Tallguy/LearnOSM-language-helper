@@ -206,24 +206,4 @@ sed -i '/org\/vi\/beginner\/moving-forward\/</ r learnosm-org-moving-forward-lan
 sed -i '/org\/cn\/beginner\/moving-forward\/</ r learnosm-org-moving-forward-lang.xml' sitemap-1.xml
 sed -i '/org\/tw\/beginner\/moving-forward\/</ r learnosm-org-moving-forward-lang.xml' sitemap-1.xml
 sed -i '/org\/cs\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/de\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/en\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/es\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/fa\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/fr\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/hr\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/id\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/it\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/ja\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/my\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/nb\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/nl\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/pl\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/pt\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/ru\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/sw\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/uk\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/vi\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/cn\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
-sed -i '/org\/tw\/josm\/</ r learnosm-org-josm-lang.xml' sitemap-1.xml
 cp sitemap-1.xml ../output/sitemap.xml

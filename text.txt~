@@ -1,0 +1,26 @@
+f2="$(<learnosm-org-lang.xml)"
+awk -vf2="$f2" '/<loc>http:\/\/learnosm.org\/cs\/<\/loc>/{print f2;print;next}1' sitemap-1.xml>~/Github/LearnOSM-language-helper/output/sitemap.xml
+
+
+sed -i `/\<urlset\ xmlns\=\'http\:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9\'\>/ a\
+ xmlns\:xhtml\=\"http\:\/\/www\.w3\.org\/1999\/xhtml\"\>` sitemap-1.xml
+
+
+add the word hello after the second line
+$ seq 3 | sed '2a hello'
+
+sed '2a\
+ xmlns\:xhtml\=\"http\:\/\/www\.w3\.org\/1999\/xhtml\"\>` sitemap-1.xml
+ 
+ 
+sed -i '/\<urlset\ xmlns\=\'http\:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9\'\>/\<urlset\ xmlns\=\'http\:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9\'sitemap-1.xml
+
+
+delete the line after this
+<loc>http://learnosm.org/cs/</loc>
+
+
+
+Since /r stands for reading in a file, use:
+
+sed '/First/r file1.txt' infile.txt
