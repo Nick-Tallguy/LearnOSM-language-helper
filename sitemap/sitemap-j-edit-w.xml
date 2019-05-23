@@ -1,75 +1,71 @@
           <priority>0.6</priority>
             <changefreq>yearly</changefreq>
-              <lastmod>2015-07-12T09:11:26+00:00</lastmod>
-    			        <xhtml:link 
+              <lastmod>2015-07-13T09:11:26+00:00</lastmod>
+				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="cs"
-				               href="https://learnosm.org/cs/josm/start-josm"/>
+				               href="https://learnosm.org/cs/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="de"
-				               href="https://learnosm.org/de/josm/start-josm"/>
+				               href="https://learnosm.org/de/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="en"
-				               href="https://learnosm.org/en/josm/start-josm"/>
+				               href="https://learnosm.org/en/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="es"
-				               href="https://learnosm.org/es/josm/start-josm"/>
-				        <xhtml:link 
-				               rel="alternate"
-				               hreflang="fa"
-				               href="https://learnosm.org/fa/josm/start-josm"/>
+				               href="https://learnosm.org/es/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="fr"
-				               href="https://learnosm.org/fr/josm/start-josm"/>
+				               href="https://learnosm.org/fr/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="hr"
-				               href="https://learnosm.org/hr/josm/start-josm"/>
+				               href="https://learnosm.org/hr/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="id"
-				               href="https://learnosm.org/id/josm/start-josm"/>
+				               href="https://learnosm.org/id/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="it"
-				               href="https://learnosm.org/it/josm/start-josm"/>
+				               href="https://learnosm.org/it/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ja"
-				               href="https://learnosm.org/ja/josm/start-josm"/>
+				               href="https://learnosm.org/ja/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="my"
-				               href="https://learnosm.org/my/josm/start-josm"/>
+				               href="https://learnosm.org/my/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
-				               href="https://learnosm.org/nl/josm/start-josm"/>
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pt"
-				               href="https://learnosm.org/pt/josm/start-josm"/>
+				               href="https://learnosm.org/pt/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ru"
-				               href="https://learnosm.org/ru/josm/start-josm"/>
+				               href="https://learnosm.org/ru/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="sw"
-				               href="https://learnosm.org/sw/josm/start-josm"/>
+				               href="https://learnosm.org/sw/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="uk"
-				               href="https://learnosm.org/uk/josm/start-josm"/>
+				               href="https://learnosm.org/uk/josm/editing-with-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="vi"
-				               href="https://learnosm.org/vi/josm/start-josm"/>
+				               href="https://learnosm.org/vi/josm/editing-with-josm"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh/josm/start-josm"/>
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/josm/editing-with-josm"/>

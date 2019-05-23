@@ -1,115 +1,115 @@
-          <priority>1.0</priority>
+          <priority>0.6</priority>
             <changefreq>yearly</changefreq>
-              <lastmod>2019-01-29T09:11:26+00:00</lastmod>
+              <lastmod>2014-01-01T09:11:26+00:00</lastmod>
     			         <xhtml:link 
 				               rel="alternate"
 				               hreflang="ar"
-				               href="https://learnosm.org/ar"/>
+				               href="https://learnosm.org/ar/josm/josm-editing-techniques"/>
 				         <xhtml:link 
 				               rel="alternate"
 				               hreflang="bn"
-				               href="https://learnosm.org/bn"/>
+				               href="https://learnosm.org/bn/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ca"
-				               href="https://learnosm.org/ca"/>
+				               href="https://learnosm.org/ca/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="cs"
-				               href="https://learnosm.org/cs"/>
+				               href="https://learnosm.org/cs/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="de"
-				               href="https://learnosm.org/de"/>
+				               href="https://learnosm.org/de/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="en"
-				               href="https://learnosm.org/en"/>
+				               href="https://learnosm.org/en/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="es"
-				               href="https://learnosm.org/es"/>
+				               href="https://learnosm.org/es/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="fa"
-				               href="https://learnosm.org/fa"/>
+				               href="https://learnosm.org/fa/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="fr"
-				               href="https://learnosm.org/fr"/>
+				               href="https://learnosm.org/fr/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="he"
-				               href="https://learnosm.org/he"/>
+				               href="https://learnosm.org/he/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="hr"
-				               href="https://learnosm.org/hr"/>
+				               href="https://learnosm.org/hr/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="hu"
-				               href="https://learnosm.org/hu"/>
+				               href="https://learnosm.org/hu/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="id"
-				               href="https://learnosm.org/id"/>
+				               href="https://learnosm.org/id/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="it"
-				               href="https://learnosm.org/it"/>
+				               href="https://learnosm.org/it/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ja"
-				               href="https://learnosm.org/ja"/>
+				               href="https://learnosm.org/ja/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="kn"
-				               href="https://learnosm.org/kn"/>
+				               href="https://learnosm.org/kn/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ko"
-				               href="https://learnosm.org/ko"/>
+				               href="https://learnosm.org/ko/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="my"
-				               href="https://learnosm.org/my"/>
+				               href="https://learnosm.org/my/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="nb"
-				               href="https://learnosm.org/nb"/>
+				               href="https://learnosm.org/nb/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="nl"
-				               href="https://learnosm.org/nl"/>
+				               href="https://learnosm.org/nl/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pl"
-				               href="https://learnosm.org/pl"/>
+				               href="https://learnosm.org/pl/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pt"
-				               href="https://learnosm.org/pt"/>
+				               href="https://learnosm.org/pt/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ru"
-				               href="https://learnosm.org/ru"/>
+				               href="https://learnosm.org/ru/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="sq"
-				               href="https://learnosm.org/sq"/>
+				               href="https://learnosm.org/sq/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="sw"
-				               href="https://learnosm.org/sw"/>
+				               href="https://learnosm.org/sw/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="uk"
-				               href="https://learnosm.org/uk"/>
+				               href="https://learnosm.org/uk/josm/josm-editing-techniques"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="vi"
-				               href="https://learnosm.org/vi"/>
+				               href="https://learnosm.org/vi/josm/josm-editing-techniques"/>
 				         <xhtml:link 
 				               rel="alternate"
 				               hreflang="zh"
-				               href="https://learnosm.org/zh"/>
+				               href="https://learnosm.org/zh/josm/josm-editing-techniques"/>

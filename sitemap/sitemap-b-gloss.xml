@@ -35,7 +35,7 @@
 				               href="https://learnosm.org/my/beginner/glossary"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
+				               hreflang="nl_NL"
 				               href="https://learnosm.org/nl/beginner/glossary"/>
 				        <xhtml:link 
 				               rel="alternate"
@@ -51,5 +51,9 @@
 				               href="https://learnosm.org/vi/beginner/glossary"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh/beginner/glossary"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN/beginner/glossary"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/beginner/glossary"/>

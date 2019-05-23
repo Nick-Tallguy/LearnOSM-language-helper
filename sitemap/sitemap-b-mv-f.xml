@@ -51,7 +51,7 @@
 				               href="https://learnosm.org/nb/beginner/moving-forward"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
+				               hreflang="nl_NL"
 				               href="https://learnosm.org/nl/beginner/moving-forward"/>
 				        <xhtml:link 
 				               rel="alternate"
@@ -79,5 +79,10 @@
 				               href="https://learnosm.org/vi/beginner/moving-forward"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh/beginner/moving-forward"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN/beginner/moving-forward"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/beginner/moving-forward"/>
+

@@ -43,7 +43,7 @@
 				               href="https://learnosm.org/my/beginner/id-editor"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
+				               hreflang="nl_NL"
 				               href="https://learnosm.org/nl/beginner/id-editor"/>
 				        <xhtml:link 
 				               rel="alternate"
@@ -63,5 +63,5 @@
 				               href="https://learnosm.org/vi/beginner/id-editor"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
+				               hreflang="zh_CN"
 				               href="https://learnosm.org/zh/beginner/id-editor"/>

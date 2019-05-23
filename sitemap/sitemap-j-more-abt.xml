@@ -4,60 +4,64 @@
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="cs"
-				               href="https://learnosm.org/cs"/>
+				               href="https://learnosm.org/cs/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="de"
-				               href="https://learnosm.org/de"/>
+				               href="https://learnosm.org/de/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="en"
-				               href="https://learnosm.org/en"/>
+				               href="https://learnosm.org/en/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="fa"
-				               href="https://learnosm.org/fa"/>
+				               href="https://learnosm.org/fa/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="hr"
-				               href="https://learnosm.org/hr"/>
+				               href="https://learnosm.org/hr/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="id"
-				               href="https://learnosm.org/id"/>
+				               href="https://learnosm.org/id/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="it"
-				               href="https://learnosm.org/it"/>
+				               href="https://learnosm.org/it/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ja"
-				               href="https://learnosm.org/ja"/>
+				               href="https://learnosm.org/ja/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="my"
-				               href="https://learnosm.org/my"/>
+				               href="https://learnosm.org/my/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
-				               href="https://learnosm.org/nl"/>
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="ru"
-				               href="https://learnosm.org/ru"/>
+				               href="https://learnosm.org/ru/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="sw"
-				               href="https://learnosm.org/sw"/>
+				               href="https://learnosm.org/sw/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="uk"
-				               href="https://learnosm.org/uk"/>
+				               href="https://learnosm.org/uk/josm/more-about-josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="vi"
-				               href="https://learnosm.org/vi"/>
+				               href="https://learnosm.org/vi/josm/more-about-josm"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN/josm/more-about-josm"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/josm/more-about-josm"/>

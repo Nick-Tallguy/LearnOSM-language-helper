@@ -47,8 +47,8 @@
 				               href="https://learnosm.org/nb/josm"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
-				               href="https://learnosm.org/nl/josm"/>
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/josm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pl"
@@ -75,5 +75,9 @@
 				               href="https://learnosm.org/vi/josm"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh/josm"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN/josm"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/josm"/>

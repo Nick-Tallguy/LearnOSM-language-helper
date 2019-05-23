@@ -59,8 +59,8 @@
 				               href="https://learnosm.org/nb"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
-				               href="https://learnosm.org/nl"/>
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pl"
@@ -91,5 +91,9 @@
 				               href="https://learnosm.org/vi"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW"/>

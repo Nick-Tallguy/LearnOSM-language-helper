@@ -59,8 +59,8 @@
 				               href="https://learnosm.org/nb/contribute"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
-				               href="https://learnosm.org/nl/contribute"/>
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/contribute"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pl"
@@ -91,5 +91,9 @@
 				               href="https://learnosm.org/vi/contribute"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh/contribute"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN/contribute"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/contribute"/>

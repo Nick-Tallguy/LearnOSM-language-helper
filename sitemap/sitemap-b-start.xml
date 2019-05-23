@@ -59,8 +59,8 @@
 				               href="https://learnosm.org/nb/beginner/start-osm"/>
 				        <xhtml:link 
 				               rel="alternate"
-				               hreflang="nl"
-				               href="https://learnosm.org/nl/beginner/start-osm"/>
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/beginner/start-osm"/>
 				        <xhtml:link 
 				               rel="alternate"
 				               hreflang="pl"
@@ -91,5 +91,9 @@
 				               href="https://learnosm.org/vi/beginner/start-osm"/>
 				         <xhtml:link 
 				               rel="alternate"
-				               hreflang="zh"
-				               href="https://learnosm.org/zh/beginner/start-osm"/>
+				               hreflang="zh_CN"
+				               href="https://learnosm.org/zh_CN/beginner/start-osm"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/beginner/start-osm"/>
