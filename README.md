@@ -1,5 +1,11 @@
 # LearnOSM-language-helper
 
+Overview of the scripts and folders
+-----------------------------------
+Although originally created just to assist in the creation of translated files for LearnOSM, the folders in this repository now contain scripts describing the process used to update the staging site on a daily basis, and the scripts used to create a sitemap which complies with the requirements of a multi-language site.  
+
+--------------------------
+
 LearnOSM is available in many languages, which is great, but can make it difficult to manage if the person doing the updating doesn't speak the language! <https://www.transifex.com/> very kindly offer their services free of charge to HOTOSM and LearnOSM, which has made it much easier to manage the translation process.  
 
 For a new language to appear on LearnOSM, two files need to be updated;  

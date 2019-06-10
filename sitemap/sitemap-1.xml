@@ -16469,6 +16469,9 @@
 <loc>http://learnosm.org/en/hot-tips/saving/</loc>
 </url>
 <url>
+<loc>http://learnosm.org/es/hot-tips/saving/</loc>
+</url>
+<url>
 <loc>http://learnosm.org/fa/hot-tips/saving/</loc>
 </url>
 <url>
@@ -16550,7 +16553,7 @@
 <loc>http://learnosm.org/pl/hot-tips/tracing-round-buildings/</loc>
 </url>
 <url>
-<loc>http://learnosm.org/vin/hot-tips/tracing-round-buildings/</loc>
+<loc>http://learnosm.org/vi/hot-tips/tracing-round-buildings/</loc>
 </url>
 <url>
 <loc>http://learnosm.org/cs/hot-tips/tracing-rectangular-buildings/</loc>
@@ -16587,75 +16590,1351 @@
 </url>
 <url>
 <loc>http://learnosm.org/de/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/en/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/fa/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/fr/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/it/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/ja/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/my/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/nl_NL/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/pl/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/vi/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/zh_TW/hot-tips/getting-started/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-10-30T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fr"
+				               href="https://learnosm.org/fr/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips/getting-started"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips/getting-started"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips/getting-started"/>
 </url>
 <url>
 <loc>http://learnosm.org/cs/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/de/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/en/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/es/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/fa/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/it/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/ja/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/my/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/nl_NL/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/pl/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/sq/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/vi/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/zh_TW/hot-tips/</loc>
+          <priority>0.8</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2017-02-10T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl_NL/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="pl"
+				               href="https://learnosm.org/pl/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="sq"
+				               href="https://learnosm.org/sq/hot-tips"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/hot-tips"/>
+				         <xhtml:link 
+				               rel="alternate"
+				               hreflang="zh_TW"
+				               href="https://learnosm.org/zh_TW/hot-tips"/>
 </url>
 <url>
 <loc>http://learnosm.org/de/coordination/review/</loc>
@@ -16688,6 +17967,9 @@
 <loc>http://learnosm.org/en/coordination/mapathon/</loc>
 </url>
 <url>
+<loc>http://learnosm.org/fa/coordination/mapathon/</loc>
+</url>
+<url>
 <loc>http://learnosm.org/nl_NL/coordination/mapathon/</loc>
 </url>
 <url>
@@ -16698,6 +17980,9 @@
 </url>
 <url>
 <loc>http://learnosm.org/en/coordination/remote-tracing/</loc>
+</url>
+<url>
+<loc>http://learnosm.org/fa/coordination/remote-tracing/</loc>
 </url>
 <url>
 <loc>http://learnosm.org/my/coordination/remote-tracing/</loc>
@@ -16988,6 +18273,9 @@
 <loc>http://learnosm.org/en/osm-data/osmosis/</loc>
 </url>
 <url>
+<loc>http://learnosm.org/fa/osm-data/osmosis/</loc>
+</url>
+<url>
 <loc>http://learnosm.org/id/osm-data/osmosis/</loc>
 </url>
 <url>
@@ -17103,6 +18391,9 @@
 </url>
 <url>
 <loc>http://learnosm.org/en/osm-data/geofabrik-and-hot-export/</loc>
+</url>
+<url>
+<loc>http://learnosm.org/fa/osm-data/geofabrik-and-hot-export/</loc>
 </url>
 <url>
 <loc>http://learnosm.org/it/osm-data/geofabrik-and-hot-export/</loc>
@@ -17288,6 +18579,9 @@
 <loc>http://learnosm.org/es/mobile-mapping/gpsessentials/</loc>
 </url>
 <url>
+<loc>http://learnosm.org/fa/mobile-mapping/gpsessentials/</loc>
+</url>
+<url>
 <loc>http://learnosm.org/ja/mobile-mapping/gpsessentials/</loc>
 </url>
 <url>
@@ -17423,6 +18717,9 @@
 <loc>http://learnosm.org/es/mobile-mapping/field-papers/</loc>
 </url>
 <url>
+<loc>http://learnosm.org/fa/mobile-mapping/field-papers/</loc>
+</url>
+<url>
 <loc>http://learnosm.org/fr/mobile-mapping/field-papers/</loc>
 </url>
 <url>
@@ -17466,6 +18763,9 @@
 </url>
 <url>
 <loc>http://learnosm.org/es/mobile-mapping/using-gps/</loc>
+</url>
+<url>
+<loc>http://learnosm.org/fa/mobile-mapping/using-gps/</loc>
 </url>
 <url>
 <loc>http://learnosm.org/fr/mobile-mapping/using-gps/</loc>
@@ -17620,6 +18920,9 @@
 				               rel="alternate"
 				               hreflang="vi"
 				               href="https://learnosm.org/vi/josm/josm-conflict-resolution"/>
+</url>
+<url>
+<loc>http://learnosm.org/fa/josm/josm-conflict-resolution/</loc>
 </url>
 <url>
 <loc>http://learnosm.org/id/josm/conflict-resolution/</loc>
@@ -17904,6 +19207,9 @@
 				               rel="alternate"
 				               hreflang="vi"
 				               href="https://learnosm.org/vi"/>
+</url>
+<url>
+<loc>http://learnosm.org/fa/josm/correcting-imagery-offset/</loc>
 </url>
 <url>
 <loc>http://learnosm.org/id/josm/correcting-imagery-offset/</loc>
@@ -19230,24 +20536,6 @@
 				               rel="alternate"
 				               hreflang="zh_TW"
 				               href="https://learnosm.org/zh_TW/josm/aerial-imagery"/>
-</url>
-<url>
-<loc>http://learnosm.org/de/josm/josm-editing-techniques/</loc>
-          <priority>0.6</priority>
-            <changefreq>yearly</changefreq>
-              <lastmod>2014-01-01T09:11:26+00:00</lastmod>
-				        <xhtml:link 
-				               rel="alternate"
-				               hreflang="de"
-				               href="https://learnosm.org/de/josm/josm-editing-techniques"/>
-				        <xhtml:link 
-				               rel="alternate"
-				               hreflang="id"
-				               href="https://learnosm.org/id/josm/josm-editing-techniques"/>
-				        <xhtml:link 
-				               rel="alternate"
-				               hreflang="ja"
-				               href="https://learnosm.org/ja/josm/josm-editing-techniques"/>
 </url>
 <url>
 <loc>http://learnosm.org/de/josm/josm-editing-techniques/</loc>
@@ -21042,7 +22330,54 @@
 				               href="https://learnosm.org/vi/josm/josm-more-plugins"/>
 </url>
 <url>
-<loc>http://learnosm.org/ja/josm/josm-more-tools/</loc>
+<loc>http://learnosm.org/ja/josm/josm-more-plugins/</loc>
+          <priority>0.6</priority>
+            <changefreq>yearly</changefreq>
+              <lastmod>2016-09-12T09:11:26+00:00</lastmod>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="cs"
+				               href="https://learnosm.org/cs/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="de"
+				               href="https://learnosm.org/de/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="en"
+				               href="https://learnosm.org/en/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="es"
+				               href="https://learnosm.org/es/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="fa"
+				               href="https://learnosm.org/fa/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="id"
+				               href="https://learnosm.org/id/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="it"
+				               href="https://learnosm.org/it/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="ja"
+				               href="https://learnosm.org/ja/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="my"
+				               href="https://learnosm.org/my/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="nl_NL"
+				               href="https://learnosm.org/nl/josm/josm-more-plugins"/>
+				        <xhtml:link 
+				               rel="alternate"
+				               hreflang="vi"
+				               href="https://learnosm.org/vi/josm/josm-more-plugins"/>
 </url>
 <url>
 <loc>http://learnosm.org/my/josm/josm-more-plugins/</loc>

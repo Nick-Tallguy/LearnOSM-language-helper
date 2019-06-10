@@ -358,4 +358,25 @@ sed -i '/org\/my\/josm\/correcting-imagery-offset\/</ r sitemap-j-corr-offset.xm
 sed -i '/org\/nl_NL\/josm\/correcting-imagery-offset\/</ r sitemap-j-corr-offset.xml' sitemap-1.xml
 sed -i '/org\/vi\/josm\/correcting-imagery-offset\/</ r sitemap-j-corr-offset.xml' sitemap-1.xml
 sed -i '/org\/de\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/en\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/id\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/it\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/ja\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/my\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/nl_NL\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/vi\/josm\/josm-conflict-resolution\/</ r sitemap-j-conflict.xml' sitemap-1.xml
+sed -i '/org\/cs\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/de\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/en\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/es\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/fa\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/it\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/ja\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/my\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/nl_NL\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/pl\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/sq\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/vi\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/zh_TW\/hot-tips\/</ r sitemap-h-tips.xml' sitemap-1.xml
+sed -i '/org\/cs\/hot-tips\/getting-started\/</ r sitemap-h-start.xml' sitemap-1.xml
 cp sitemap-1.xml ../output/sitemap.xml
