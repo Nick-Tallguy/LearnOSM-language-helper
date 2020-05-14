@@ -1,7 +1,9 @@
 # LearnOSM-language-helper
 
 Overview of the scripts and folders
------------------------------------
+==================================
+
+
 Although originally created just to assist in the creation of translated files for LearnOSM, the folders in this repository now contain scripts describing the process used to update the staging site on a daily basis, and the scripts used to create a sitemap which complies with the requirements of a multi-language site.  
 
 --------------------------
